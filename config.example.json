@@ -1,0 +1,12 @@
+{
+  "cppt_keyword": "CPPT Alergi Imunologi",
+  "tindakan": ["01.01.010", "01.49.101"],
+  "status": "3",
+  "require_today": true,
+  "touch_subyektif": true,
+  "skip_existing": true,
+  "headless": false,
+  "slow_mo_ms": 0,
+  "timeout_ms": 30000,
+  "confirm_each_save": false
+}
